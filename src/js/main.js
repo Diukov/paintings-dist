@@ -1,5 +1,6 @@
 import modals from './modules/modals.js';
 import sliders from './modules/sliders.js';
+import forms from './modules/forms.js';
 
 window.addEventListener('DOMContentLoaded', () => {
   'use strict';
